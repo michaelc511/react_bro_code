@@ -1,11 +1,13 @@
 import Header from "./Header"
+import Footer from "./Footer"
 
-function App() { 
+function App() {
 
   return (
-    <Header>
-  
-    </Header>
+    <>
+      <Header />
+      <Footer />
+    </>
   )
 }
 
